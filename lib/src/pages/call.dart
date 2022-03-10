@@ -337,7 +337,7 @@ class _CallPageState extends State<CallPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Video call clone'),
+        title: Text('Videocall clone'),
       ),
       backgroundColor: Colors.black,
       body: Center(
